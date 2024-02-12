@@ -1,0 +1,49 @@
+.Email-container{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  margin-top:30px;
+  justify-content: center;
+}
+
+.Form-box{
+  flex-basis: 80%;
+  height: 27rem;
+  background: #05bdb4;
+  border-radius: 5px;
+  display:flex;
+  flex-direction: column;
+  font-family: fantasy;
+}
+
+.inp{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+input{
+  width: 60%;
+  height: 2rem;
+}
+
+.Send{
+  width: 90%;
+  margin-top:30px;
+  margin: 30px auto;
+  font-family: fantasy;
+}
+h3{
+  text-align: center;
+  
+}
+
+.p{
+  font-family: Monospace;
+  font-size: 0.9rem;
+  color:red;
+}
