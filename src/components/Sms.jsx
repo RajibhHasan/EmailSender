@@ -1,11 +1,14 @@
 import React from 'react';
 
-
+import "../../public/stylesheet/Sms.css";
 
 const Sms = () => {
   return (
   <><div>
-  Sms
+  
+  <h2> develop runing 
+  
+  </h2>
   
   </div></>
   )

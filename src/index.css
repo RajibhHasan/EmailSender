@@ -38,3 +38,13 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+.popUp{
+  width: 70%;
+  height: 150px;
+  position: absolute;
+  left:15%;
+  top:30%;
+  background: red;
+}

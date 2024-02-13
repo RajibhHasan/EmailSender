@@ -47,7 +47,7 @@ const Email = () => {
         for (let i = 0; i < userData.count; i++) {
             
             if(!error){
-              post("http://localhost:5175/Email", userData);
+              post("https://email-project-iohv.onrender.com/Email", userData);
             }
          
             
